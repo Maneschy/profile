@@ -73,7 +73,7 @@
 /* Highlight section */
 	.highlight-left:after,
 	.highlight-right:after {
-		background: #6ea81a;
+		background: #004989;
 	}
 	@media only screen and (max-width: 767px) {
 		.highlight-left	.column:first-child,

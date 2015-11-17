@@ -186,7 +186,7 @@
 						<div class="items_group clearfix">
 							<div class="column one-third column_icon_box">
 								<div class="icon_box icon_position_top">
-									<a href="#">
+									<a href="palestras.php">
 									<div class="icon_wrapper">
 										<i class="icon-beaker-line"></i>
 									</div>
@@ -201,7 +201,7 @@
 								</div>
 							</div>
 							<div class="column one-third column_icon_box">
-								<div class="icon_box icon_position_top">
+								<div class="icon_box icon_position_top">								<a href="treinamentos.php">
 									<div class="icon_wrapper">
 										<i class="icon-diamond-line"></i>
 									</div>
@@ -211,12 +211,12 @@
 										<!-- <div class="desc">
 											O bom RH está sempre envolvido nos problemas das pessoas. <br/> E quem pode ajudar a resolver esses problemas é a PROFILE.
 										</div>-->
-									</div>
+									</div>									</a>
 								</div>
 							</div>
 							<div class="column one-third column_icon_box">
 								<div class="icon_box icon_position_top">
-									<a href="#">
+									<a href="medicina.php">
 									<div class="icon_wrapper">
 										<i class="icon-heart-line"></i>
 									</div>
@@ -233,7 +233,6 @@
 						</div>
 					</div>
 				</div>
-
 				
 
 				<!-- Video Section -->
@@ -246,7 +245,7 @@
 										<h3>USE NOSSA INTELIGÊNCIA NOS SEUS NEGÓCIOS</h3>
 										<h6>O bom RH está sempre envolvido nos problemas das pessoas. <br/> E quem pode ajudar a resolver esses problemas é a PROFILE.</h6><br/>
                                         
-									<a class="button button_large" href="#" target="_blank">CONHEÇA NOSSOS CLIENTES</a>
+									<a class="button button_large" href="clientes.php" target="_blank">CONHEÇA NOSSOS CLIENTES</a>
 									</div>
 								</div>
 							</div>
