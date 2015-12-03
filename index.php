@@ -304,7 +304,7 @@
 									<h2 style="color:#004989;">CONHEÇA MAIS<br/>NOSSAS ESPECIALIDADES</h2>
 									<hr class="hr_narrow"/>
 									<h5 class="mb50" style="color:#004989;">Ausências não previstas causam uma <br/>perda de produtividade até 40% maior que a prevista.</h5>
-									<a class="button button_large button_filled" href="#">nossas especialidades</a>
+									<a class="button button_large button_filled" href="planos.php">nossas especialidades</a>
 								</div>
 							</div>
 						</div>
