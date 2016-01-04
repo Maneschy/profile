@@ -151,8 +151,8 @@
 								<hr class="hr_left">
 								<h6>A Profile oferece seus serviços de comercialização e consultoria, fazendo o intercâmbio entre as empresas e os planos de saúde.</h6>
 								<p>
-									Objetivando o melhor controle e gestão dos processos, pois através de investivmentos na prevenção da saúde dos colaboradoes uma forma de valorizar, proteger e conscientizar sobre o uso adequado do seus benefícios.
-								<a href="#">veja mais...</a>
+									Objetivando o melhor controle e gestão dos processos, pois através de investimentos na prevenção da saúde dos colaboradores uma forma de valorizar, proteger e conscientizar sobre o uso adequado do seus benefícios.
+								<a href="aprofile.php">veja mais...</a>
 							</div>
                             
 							<div class="column one-third column_column">
@@ -245,7 +245,7 @@
 										<h3>USE NOSSA INTELIGÊNCIA NOS SEUS NEGÓCIOS</h3>
 										<h6>O bom RH está sempre envolvido nos problemas das pessoas. <br/> E quem pode ajudar a resolver esses problemas é a PROFILE.</h6><br/>
                                         
-									<a class="button button_large" href="clientes.php" target="_blank">CONHEÇA NOSSOS CLIENTES</a>
+									<a class="button button_large" href="clientes.php">CONHEÇA NOSSOS CLIENTES</a>
 									</div>
 								</div>
 							</div>
