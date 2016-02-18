@@ -119,10 +119,10 @@
 					</div>
 					<!-- LAYER NR. 3 -->
 					<div style="color:#004989;" class="tp-caption large_light skewfromleft tp-resizeme" data-x="166" data-y="154" data-speed="800" data-start="800" data-easing="Power4.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
-						INOVAÇÃO NA RELAÇÃO <br/>CLIENTE/OPERADORA
+						VENHA SER MAIS UM <br/>CLIENTE FELIZ, <br/>VENHA PARA A PROFILE
 					</div>
 					</li>
-					
+										<!-- SLIDE  -->					<li data-transition="slide" data-slotamount="7" data-masterspeed="100" data-saveperformance="on">					<!-- MAIN IMAGE -->					<img src="images/banner-profile05.jpg" alt="banner3" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">					<!-- LAYERS -->					<!-- LAYER NR. 1 -->					<div class="tp-caption tp-fade fullscreenvideo tp-videolayer" data-x="0" data-y="0" data-speed="300" data-start="1000" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1"  data-endspeed="300" data-nextslideatend="true">					</div>					<!-- LAYER NR. 3 -->					<div class="tp-caption large_light skewfromleft tp-resizeme" data-x="166" data-y="154" data-speed="800" data-start="800" data-easing="Power4.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">						INOVAÇÃO NO INTERCÂMBIO<br/> CLIENTE/FORNECEDOR					</div>					</li>					
 					
 				</ul>
 				<div class="tp-bannertimer tp-bottom">
@@ -149,18 +149,12 @@
 							<div class="column one-third column_column">
 								<h3>A Profile</h3>
 								<hr class="hr_left">
-								<h6>A Profile oferece seus serviços de comercialização e consultoria, fazendo o intercâmbio entre as empresas e os planos de saúde.</h6>
-								<p>
-									Objetivando o melhor controle e gestão dos processos, pois através de investimentos na prevenção da saúde dos colaboradores uma forma de valorizar, proteger e conscientizar sobre o uso adequado do seus benefícios.
+								<h6>								Realizamos consultoria de qualidade com atendimento personalizado na contratação do melhor seguro para seu perfil. <br/><br/>								Trabalhamos com as melhores seguradoras e empresas do país a fim de oferecer aos nossos clientes tudo que existe de melhor em proteção. Aqui você escolhe como quer ser atendido e nós personalizamos para melhor lhes atender.								<br/><br/>								</h6>
+								
 								<a href="aprofile.php">veja mais...</a>
-							</div>
+							</div>							<div class="column one-third column_column">								<h3>•••</h3>								<hr class="hr_left">								<h6>								• Você não possui quem acompanhe os afastados da sua empresa?<br/>								•<strong> Não possui pessoa especializada em acompanhar usuários com tratamento critico?</strong><br/>								• Não possui equipe suficiente para operacionalizar os serviços relacionados aos benefícios?<br/>								• <strong> Precisa montar uma SIPAT que encante os investidores e parceiros?</strong>																</h6>																<a href="contato.php" class="button  ">Terceirize nossos serviços</a>							</div>
                             
-							<div class="column one-third column_column">
-								<h3>Processo de Gestão</h3>
-								<hr class="hr_left">
-								<a href="#"><img class="scale-with-grid" src="images/piramide.png" alt=""/></a>
-							</div>
-                            
+							
                             
 							<div class="column one-third column_contact_box">
 								<div class="contact_box contact_box_modern dark">
@@ -170,7 +164,7 @@
 										<div class="inside">
 											                                         <div role="form" class="wpcf7" id="wpcf7-f9896-p5721-o1" lang="en-US" dir="ltr">                                            <div class="screen-reader-response"></div>                                                                                        <form action="envia_orcamento.php" method="POST" id="contact-form" class="contact">                                                <p>                                                    <span class="wpcf7-form-control-wrap name">                                                        <input type="text"  name="nome" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Seu nome"/>                                                    </span>                                                    <span class="wpcf7-form-control-wrap email">                                                        <input type="text" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Seu email"/>                                                    </span>                                                    <span class="wpcf7-form-control-wrap subject">                                                        <input type="text" name="telefone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Telefone e Operadora"/>                                                    </span>                                                    <span class="wpcf7-form-control-wrap message">                                                        <textarea  name="obs" id="comment" cols="40" rows="2" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Qual o plano do seu interesse?"></textarea>                                                    </span>                                                </p>                                                <div id="msg" class="message"></div>                                            </form>                                        </div>										                                                                                </div>
 										<div class="options">
-											<a style="float: left; margin-right: 20px; margin-top: 7px;" href="#" class="button">enviar</a><h6> ou Ligue agora <b>3877-4045</b></h6>
+											<a style="float: left; margin-right: 20px; margin-top: 7px;" href="#" class="button">enviar</a><h6> ou Ligue agora <br/><b>3877-4045</b></h6>
 										</div>
 									</div>
 								</div>
@@ -236,7 +230,7 @@
 				
 
 				<!-- Video Section -->
-				<div class="section highlight-left homevideosection">
+				<!--<div class="section highlight-left homevideosection">
 					<div class="section_wrapper clearfix">
 						<div class="items_group clearfix">
 							<div class="column one-second column_video_box">
@@ -290,7 +284,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div>-->
 				<!-- End Video Section -->
 
 				
@@ -312,7 +306,7 @@
 				</div>
 
 				<!-- buy it -->
-				<div class="section center buyit">
+				<!--<div class="section center buyit">
 					<div class="section_wrapper clearfix">
 						<div class="items_group clearfix">
 							<div class="column two-third column_column">
@@ -323,7 +317,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div>-->
 				
 				
 			</div>
